@@ -1,3 +1,3 @@
-FROM node:8-alpine
+FROM node:16-alpine
 
 # Update soon
