@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/laboon-docs/laboon#readme",
   "devDependencies": {
-    "lerna": "3.22.1"
+    "lerna": "6.0.3"
   }
 }
